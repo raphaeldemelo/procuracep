@@ -95,3 +95,13 @@ export const TextoPesquisa = styled.Text`
 color: #fff;
 font-weight: bold;
 `;
+
+export const Descricao = styled.Text`
+color: #fff;
+font-weight: bold;
+`;
+
+export const AreaDescricao = styled.View`
+justify-content: center;
+margin-top: 5%;
+`;
